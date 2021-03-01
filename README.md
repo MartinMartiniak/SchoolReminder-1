@@ -1,1 +1,3 @@
 # SchoolReminder
+
+#Čo je SchoolReminder?
