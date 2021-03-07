@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lpch7ifst3EJpnjRepq2kvQ9wgf8pTX10HvebHYA2xZ7Co8zy6U2I0CaHUzCGBIY1HisL0b2MP0F1YtnC2207w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\Source\\Repos\\AppsLab2020\\SchoolReminder\\SchoolReminder\\SchoolReminder\\SchoolReminder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
